@@ -1,5 +1,4 @@
-# 人人影视-centos7
-# rrshareweb-centos7
+# 人人影视-centos7安装包
 
 #修改端口默认port12306
 
