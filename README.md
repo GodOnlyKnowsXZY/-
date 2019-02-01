@@ -8,4 +8,5 @@ systemctl stop renren     停止服务
 systemctl start renren    开启服务 
 systemctl disable/enable renren 停止/允许开机自启
 
-wget -N --no-check-certificate "https://raw.githubusercontent.com/ryan621/rrshareweb/master/rr.sh" && chmod +x rr.sh && ./rr.sh
+
+wget -N --no-check-certificate "https://github.com/GodOnlyKnowsXZY/-/blob/master/rrclc.sh" && chmod +x rrclc.sh && ./rrclc.sh
