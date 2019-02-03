@@ -14,4 +14,4 @@ wget -N --no-check-certificate "https://github.com/GodOnlyKnowsXZY/renrenys_cent
 wget -N --no-check-certificate "https://github.com/GodOnlyKnowsXZY/renrenys_centos7/blob/master/rrins.sh" && chmod +x rrins.sh && ./rrins.sh
 
 #人人影视缓存清理
-wget -N --no-check-certificate "https://github.com/GodOnlyKnowsXZY/renrenys_centos7/blob/master/rrclc.sh" && chmod +x rrclc.sh && ./rrclc.sh
+wget https://raw.githubusercontent.com/GodOnlyKnowsXZY/renrenys_centos7/master/rrclc.sh && chmod +x rrclc.sh && ./rrclc.sh
